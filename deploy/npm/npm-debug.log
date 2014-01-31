@@ -7,7 +7,7 @@
 4 verbose node symlink C:\Program Files\nodejs\\node.exe
 5 verbose publish [ '.' ]
 6 error Failed to parse json
-6 error Unexpected token }
+6 error Unexpected string
 7 error File: c:\home\projects\js-lib-hashcode\public\hashcode\deploy\npm\package.json
 8 error Failed to parse package.json data.
 8 error package.json must be actual JSON, not just JavaScript.
