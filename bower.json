@@ -1,0 +1,22 @@
+{
+  "name": "hashcode",
+  "version": "1.0.3",
+  "homepage": "https://github.com/zojeda/hashcode",
+  "authors": [
+    "Zacarías F. Ojeda <zojeda@gmail.com>"
+  ],
+  "description": "hashcode implementation by Stuart Bannerman (https://github.com/stuartbannerman/hashcode) packaged as bower package",
+  "main": "src/hashcode.js",
+  "keywords": [
+    "hash",
+    "hashcode"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
